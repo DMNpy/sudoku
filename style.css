@@ -30,4 +30,12 @@ input.kutuici {
     text-align: center;
     font-size: 1.2em;
 }
-
+input.kutuici:hover {
+    width: 62px;
+    height: 57px;
+    border: 2px solid;
+    background-color:turquoise;
+    margin: auto;
+    text-align: center;
+    font-size: 1.2em;
+}
